@@ -1,4 +1,4 @@
-# smarttrip-ai
+
 # SmartTrip AI Planner ✈️
 
 ## Overview
